@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: notos-robomaster Introduction, author Gavin Lee
+title: notos-robomaster Introduction
 email: li2096870763@Gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of notos-robomaster Team, author Gavin Lee
