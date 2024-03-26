@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "joint parameter tuning guide!"
+title:  joint parameter tuning guide!
+date:   2024-03-26 18:13:26 +0000
+author: "Gavin Lee"
 categories: jekyll update
 ---
 
