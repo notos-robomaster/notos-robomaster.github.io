@@ -18,16 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: notos-robomaster Introduction, author Gavin Lee
+email: li2096870763@Gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the website of notos-robomaster Team, author Gavin Lee
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+organize_url: "https://notos-robomaster.github.io" # the base hostname & protocol for your site, e.g. http://example.com\
+bilibili: 'https://space.bilibili.com/1129036891'
+github_username: lizuju
+github_organize: notos-robomaster
+discord_username: gavinlee0_0
+wechat_id: 13250541959
 
 # Build settings
 theme: minima
