@@ -1,4 +1,11 @@
-
+---
+layout: post
+title:  Markdown basic gramer
+date:   2024-04-14 22:16:46 +0000
+author: "GentaLee"
+categories: jekyll update
+---
+# 南風NOTOS github文章使用基础语法（基于markdown）
 **创建.md文档,打开同步预览功能，开始编辑**
 ###二、 基本语法
 1. **标题**
